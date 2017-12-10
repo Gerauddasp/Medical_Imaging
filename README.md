@@ -1,0 +1,1 @@
+This module aims to expose students to the challenges and potential of computational modelling in a key application area. It will explain how to use models to learn about the world; how to teach parameter estimation techniques through practical examples; and how to familiarize students with handling real data sets.
